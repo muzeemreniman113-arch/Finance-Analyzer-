@@ -1,0 +1,14 @@
+date,description,category,amount,type,account,notes
+2026-09-01,FinTech Client Retainer,Income,4500.00,Income,Business Checking,Monthly design advisory retainer
+2026-09-03,WeWork Private Desk,Housing & Office,450.00,Expense,Credit Card,Monthly coworking space
+2026-09-05,Amazon Web Services,Software & Tech,182.40,Expense,Credit Card,Server & cloud infrastructure
+2026-09-08,Figma Enterprise Seat,Software & Tech,45.00,Expense,Credit Card,Design tooling license
+2026-09-10,Client Project Milestone 2,Income,3200.00,Income,Business Checking,Brand redesign milestone delivery
+2026-09-12,Blue Bottle Coffee,Dining & Drinks,18.50,Expense,Credit Card,Client informal meeting
+2026-09-15,Quarterly Estimated Tax,Taxes,1800.00,Expense,Business Checking,IRS estimated payment
+2026-09-18,Google Workspace,Software & Tech,28.00,Expense,Credit Card,Business email & storage
+2026-09-20,Hardware Upgrade - 4K Monitor,Equipment,549.99,Expense,Credit Card,Tax-deductible hardware
+2026-09-22,GitHub Copilot Enterprise,Software & Tech,19.00,Expense,Credit Card,AI code assistant
+2026-09-25,Client Mobile App SOW,Income,2800.00,Income,Business Checking,Upfront kickoff deposit
+2026-09-28,LinkedIn Premium,Marketing,39.99,Expense,Credit Card,Outreach and client leads
+2026-09-30,Business Liability Insurance,Insurance,95.00,Expense,Business Checking,Monthly policy premium

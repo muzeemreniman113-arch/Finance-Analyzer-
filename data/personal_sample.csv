@@ -1,0 +1,27 @@
+date,description,category,amount,type,account,notes
+2026-10-01,Acme Corp Salary,Income,5200.00,Income,Checking,Monthly primary payroll deposit
+2026-10-02,Whole Foods Market,Groceries,142.50,Expense,Credit Card,Weekly pantry & produce restock
+2026-10-03,Metropolitan Water & Electric,Utilities,118.20,Expense,Checking,Monthly electric & water bill
+2026-10-04,Blue Bottle Coffee,Dining & Drinks,14.75,Expense,Credit Card,Morning cappuccino & pastry
+2026-10-05,Downtown Luxury Apartments,Housing & Rent,1850.00,Expense,Checking,Monthly apartment lease
+2026-10-06,Shell Fuel Station,Transportation,54.30,Expense,Credit Card,Commute gas refill
+2026-10-07,Netflix Subscription,Entertainment,19.99,Expense,Credit Card,Monthly 4K streaming plan
+2026-10-08,Spotify Family,Entertainment,16.99,Expense,Credit Card,Music subscription
+2026-10-09,Vanguard Total Stock ETF,Investment,600.00,Expense,Checking,Automatic index fund contribution
+2026-10-10,Trader Joe's,Groceries,88.40,Expense,Credit Card,Midweek groceries
+2026-10-12,CVS Pharmacy,Health & Medical,34.15,Expense,Credit Card,Prescriptions & vitamins
+2026-10-13,Sweetgreen,Dining & Drinks,21.50,Expense,Credit Card,Lunch salad
+2026-10-14,Equinox Fitness Club,Health & Medical,165.00,Expense,Credit Card,Monthly gym membership
+2026-10-15,Dividends Deposit,Income,145.80,Income,Investment,Quarterly ETF dividend payout
+2026-10-16,Amazon Marketplace,Shopping,79.95,Expense,Credit Card,Ergonomic desk accessories
+2026-10-17,Uber Ride,Transportation,28.60,Expense,Credit Card,Airport ride
+2026-10-18,Target Home Goods,Shopping,64.20,Expense,Credit Card,Kitchen utensils & cleaning supplies
+2026-10-19,Olive Garden Bistro,Dining & Drinks,86.00,Expense,Credit Card,Dinner with colleagues
+2026-10-20,High-Yield Savings Interest,Income,48.25,Income,Savings,Monthly HYSA accrued interest
+2026-10-21,Costco Wholesale,Groceries,215.80,Expense,Credit Card,Bulk household items & pantry
+2026-10-22,Apple iCloud & One,Software & Tech,12.99,Expense,Credit Card,Cloud storage & backup
+2026-10-23,Verizon Wireless,Utilities,85.00,Expense,Checking,Unlimited mobile plan
+2026-10-24,Delta Airlines,Travel,340.00,Expense,Credit Card,Conference flight booking
+2026-10-25,Freelance UI Consultation,Income,750.00,Income,Checking,Client design audit completion
+2026-10-26,Local Farmer's Market,Groceries,45.00,Expense,Cash,Fresh honey, sourdough & herbs
+2026-10-27,Home Depot,Housing & Maintenance,92.40,Expense,Credit Card,Lighting fixtures and paint
